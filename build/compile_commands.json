@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hj/projects/C++Projects/test/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Rains.dir/main.cpp.o -c /home/hj/projects/C++Projects/test/main.cpp",
+  "file": "/home/hj/projects/C++Projects/test/main.cpp"
+},
+{
+  "directory": "/home/hj/projects/C++Projects/test/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Rains.dir/terminal.cpp.o -c /home/hj/projects/C++Projects/test/terminal.cpp",
+  "file": "/home/hj/projects/C++Projects/test/terminal.cpp"
+},
+{
+  "directory": "/home/hj/projects/C++Projects/test/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Rains.dir/util.cpp.o -c /home/hj/projects/C++Projects/test/util.cpp",
+  "file": "/home/hj/projects/C++Projects/test/util.cpp"
+}
+]

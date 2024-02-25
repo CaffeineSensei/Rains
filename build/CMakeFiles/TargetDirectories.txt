@@ -1,0 +1,3 @@
+/home/hj/projects/C++Projects/test/build/CMakeFiles/Rains.dir
+/home/hj/projects/C++Projects/test/build/CMakeFiles/edit_cache.dir
+/home/hj/projects/C++Projects/test/build/CMakeFiles/rebuild_cache.dir
